@@ -1,0 +1,15 @@
+C:\Users\Mehemmed\source\repos\YaziDuzeltme\YaziDuzeltme\bin\Debug\net6.0\YaziDuzeltme.exe
+C:\Users\Mehemmed\source\repos\YaziDuzeltme\YaziDuzeltme\bin\Debug\net6.0\YaziDuzeltme.deps.json
+C:\Users\Mehemmed\source\repos\YaziDuzeltme\YaziDuzeltme\bin\Debug\net6.0\YaziDuzeltme.runtimeconfig.json
+C:\Users\Mehemmed\source\repos\YaziDuzeltme\YaziDuzeltme\bin\Debug\net6.0\YaziDuzeltme.dll
+C:\Users\Mehemmed\source\repos\YaziDuzeltme\YaziDuzeltme\bin\Debug\net6.0\YaziDuzeltme.pdb
+C:\Users\Mehemmed\source\repos\YaziDuzeltme\YaziDuzeltme\obj\Debug\net6.0\YaziDuzeltme.csproj.AssemblyReference.cache
+C:\Users\Mehemmed\source\repos\YaziDuzeltme\YaziDuzeltme\obj\Debug\net6.0\YaziDuzeltme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehemmed\source\repos\YaziDuzeltme\YaziDuzeltme\obj\Debug\net6.0\YaziDuzeltme.AssemblyInfoInputs.cache
+C:\Users\Mehemmed\source\repos\YaziDuzeltme\YaziDuzeltme\obj\Debug\net6.0\YaziDuzeltme.AssemblyInfo.cs
+C:\Users\Mehemmed\source\repos\YaziDuzeltme\YaziDuzeltme\obj\Debug\net6.0\YaziDuzeltme.csproj.CoreCompileInputs.cache
+C:\Users\Mehemmed\source\repos\YaziDuzeltme\YaziDuzeltme\obj\Debug\net6.0\YaziDuzeltme.dll
+C:\Users\Mehemmed\source\repos\YaziDuzeltme\YaziDuzeltme\obj\Debug\net6.0\refint\YaziDuzeltme.dll
+C:\Users\Mehemmed\source\repos\YaziDuzeltme\YaziDuzeltme\obj\Debug\net6.0\YaziDuzeltme.pdb
+C:\Users\Mehemmed\source\repos\YaziDuzeltme\YaziDuzeltme\obj\Debug\net6.0\YaziDuzeltme.genruntimeconfig.cache
+C:\Users\Mehemmed\source\repos\YaziDuzeltme\YaziDuzeltme\obj\Debug\net6.0\ref\YaziDuzeltme.dll
